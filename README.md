@@ -19,8 +19,13 @@
 
 <p align="center">
   <a href="https://github.com/Suffergod/RustChin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suffergod&repo=RustChin&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" />
-  </a>
+  <img
+    align="center"
+    width="120"
+    src="https://raw.githubusercontent.com/Suffergod/RustChin/main/icons/squareicon128.png"
+    alt="RustChin"
+  />
+</a>
 </p>
 
 <br>
