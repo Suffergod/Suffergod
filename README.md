@@ -1,176 +1,86 @@
-# 🩻 SUFFERGOD 🎃
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Just%20vibin&fontColor=ffffff&stroke=000000&strokeWidth=4" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Just%20vibin&fontColor=ffffff&stroke=000000&strokeWidth=4" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Suffergod">
-    <img src="https://img.shields.io/github/followers/Suffergod?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=111111" />
+    <img src="https://img.shields.io/github/followers/Suffergod?style=for-the-badge&logo=github&label=followers" />
   </a>
-  <a href="https://github.com/Suffergod?tab=stars">
-    <img src="https://img.shields.io/github/stars/Suffergod?affiliations=OWNER&style=for-the-badge&color=000000&labelColor=111111" />
+  <img src="https://komarev.com/ghpvc/?username=Suffergod&style=for-the-badge&label=profile+views" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=building+stuff+%E2%9A%A1;breaking+stuff+%F0%9F%92%A5;learning+weird+stuff+%F0%9F%A7%A0;just+vibin+%F0%9F%8C%8C" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Suffergod/RustChin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Suffergod&repo=RustChin&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" />
   </a>
+</p>
+
+<br>
+
+<h2 align="center">✨ GitHub activity</h2>
+
+<p align="center">
+  <img src="./profile/isocalendar.svg" width="92%" />
+</p>
+
+<br>
+
+<h2 align="center">💻 Most used languages</h2>
+
+<p align="center">
+  <img src="./profile/languages.svg" width="78%" />
+</p>
+
+<br>
+
+<h2 align="center">👾 Contribution arcade</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Suffergod/Suffergod/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Suffergod/Suffergod/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    >
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/Suffergod/Suffergod/pacman-output/pacman-contribution-graph.svg?game=pacman"
+      width="100%"
+    >
+  </picture>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suffergod&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&rank_icon=github&include_all_commits=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Suffergod&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" width="48%" />
+</p>
+
+<br>
+
+<p align="center">
   <a href="https://github.com/Suffergod">
-    <img src="https://komarev.com/ghpvc/?username=Suffergod&style=for-the-badge&color=000000&labelColor=111111" />
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://t.me/suffergod">
+    <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║  USER        SUFFERGOD                                           ║
-║  STATUS      ONLINE                                               ║
-║  MODE        JUST VIBIN                                           ║
-║  LOCATION    /dev/null                                            ║
-║  MISSION     BUILD • BREAK • REPEAT                              ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</p>
-
----
-
-## `> whoami`
-
-```console
-$ whoami
-
-Suffergod
-
-$ cat philosophy.txt
-
-build cool shit
-break boring shit
-learn weird shit
-repeat until it works
-```
-
-I like turning ridiculous ideas into things that actually run.
-
-Currently exploring:
-
-**⚙️ code** · **🧠 AI** · **🕹️ experiments** · **🧪 questionable ideas** · **🌐 open source**
-
----
-
-## `// SYSTEM TELEMETRY`
+<br>
 
 <p align="center">
-  <img src="./profile/isocalendar.svg" width="49%" />
-  <img src="./profile/languages.svg" width="49%" />
-</p>
-
-> These panels regenerate automatically from GitHub activity.
-
----
-
-## `// MOST USED LANGUAGES`
-
-<p align="center">
-  <img src="./profile/languages.svg" width="80%" />
-</p>
-
----
-
-## `// CONTRIBUTION ARCADE`
-
-<p align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Suffergod/Suffergod/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Suffergod/Suffergod/pacman-output/pacman-contribution-graph.svg?game=pacman"
-  >
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/Suffergod/Suffergod/pacman-output/pacman-contribution-graph.svg?game=pacman"
-  >
-</picture>
-
-</p>
-
----
-
-## `// CURRENTLY COOKING`
-
-```text
-████████████████████████████████████████████████████████████████
-
-  [01] find an idea
-  [02] over-engineer it
-  [03] accidentally make it useful
-  [04] ship it
-  [05] pretend this was the plan
-
-████████████████████████████████████████████████████████████████
-```
-
----
-
-## `// FEATURED SIGNAL`
-
-<a href="https://github.com/Suffergod/RustChin">
-
-<img align="right" width="120" src="https://raw.githubusercontent.com/Suffergod/RustChin/main/icon.png" />
-
-</a>
-
-### 🦀 RustChin
-
-> RTL + Vazirmatn font tooling for AI chat websites.
-
-**JavaScript · Browser Extension · AI tooling**
-
-<a href="https://github.com/Suffergod/RustChin">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br clear="right"/>
-
----
-
-## `// GITHUB ACTIVITY`
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Suffergod&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E" width="80%" />
-</p>
-
----
-
-## `// TRANSMISSION`
-
-<p align="center">
-
-<a href="https://github.com/Suffergod">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://t.me/suffergod">
-  <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-
-```text
-╭────────────────────────────────────────╮
-│                                        │
-│        thanks for stopping by          │
-│                                        │
-│             keep vibin'                │
-│                                        │
-╰────────────────────────────────────────╯
-```
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
