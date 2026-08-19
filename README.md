@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Just%20vibin&fontColor=ffffff&stroke=000000&strokeWidth=4" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Suffergod">
-    <img src="https://img.shields.io/github/followers/Suffergod?style=for-the-badge&logo=github&label=followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Suffergod&style=for-the-badge&label=profile+views" />
-</p>
 
 <br>
 
