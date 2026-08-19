@@ -69,7 +69,6 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suffergod&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&rank_icon=github&include_all_commits=true" width="48%" />
   <img src="https://streak-stats.demolab.com?user=Suffergod&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" width="48%" />
 </p>
 
