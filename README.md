@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=building+stuff+%E2%9A%A1;breaking+stuff+%F0%9F%92%A5;learning+weird+stuff+%F0%9F%A7%A0;just+vibin+%F0%9F%8C%8C" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=building+stuff+%E2%9A%A1;breaking+stuff+%F0%9F%92%A5;learning+weird+stuff+%F0%9F%A7%A0;just+vibin+%F0%9F%8C%8C](https://readme-typing-svg.demolab.com/demo/?font=Chakra+Petch&weight=500&size=22&duration=1500&pause=200&center=true&lines=Claude+Code%3F;Codex%3F%3F;Kilo+Code%3F!%3F;Hermes%3F!!%3F;Free+API%3F%3F!%3F!;Rate+Limited%3F!%3F%3F!!%3F!%3F;AHHHH%F0%9F%98%A9%F0%9F%98%A9%F0%9F%98%A9)" />
 </p>
 
 <br>
