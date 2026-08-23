@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=30&duration=1500&pause=200&center=true&width=435&lines=Claude+Code%3F;Codex%3F%3F;Kilo+Code%3F!%3F;Hermes%3F!!%3F;Free+API%3F%3F!%3F!;Rate+Limited%3F!%3F%3F!!%3F!%3F;AHHHH%F0%9F%98%A9%F0%9F%98%A9%F0%9F%98%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=500&size=30&duration=1500&pause=200&color=F7CD0C&center=true&width=435&lines=Claude+Code%3F;Codex%3F%3F;Kilo+Code%3F!%3F;Hermes%3F!!%3F;Free+API%3F%3F!%3F!;Rate+Limited%3F!%3F%3F!!%3F!%3F;AHHHH%F0%9F%98%A9%F0%9F%98%A9%F0%9F%98%A9" alt="Typing SVG" />
 </p>
 
 <br>
