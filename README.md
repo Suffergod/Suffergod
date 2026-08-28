@@ -53,8 +53,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suffergod&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" width="48%" />
-</p>
+
 
 
