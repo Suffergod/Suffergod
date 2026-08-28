@@ -57,16 +57,4 @@
   <img src="https://streak-stats.demolab.com?user=Suffergod&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" width="48%" />
 </p>
 
-<br>
-
-<p align="center">
-  <a href="https://github.com/Suffergod">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://t.me/suffergod">
-    <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
-<br>
 
