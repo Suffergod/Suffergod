@@ -22,15 +22,6 @@
 </a>
 </p>
 
-<br>
-
-<h2 align="center">✨ GitHub activity</h2>
-
-<p align="center">
-  <img src="./profile/isocalendar.svg" width="92%" />
-</p>
-
-<br>
 
 <h2 align="center">💻 Most used languages</h2>
 
