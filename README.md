@@ -22,7 +22,7 @@
 </a>
 </p>
 
-
+<h2 align="center">💻 Most used languages</h2>
 
 <p align="center">
   <img src="./profile/languages.svg" width="78%" />
